@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-export const BASE_URL = 'http://localhost:5555/';
+export const BASE_URL = 'https://mern-quiz-app-server.vercel.app/';
 
 export const ENDPOINTS = {
     PARTICIPANT: 'Participants',
